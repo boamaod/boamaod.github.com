@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Boamaod tulevad kapist välja]]></title>
   <link href="http://boamaod.github.com/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-06-23T15:06:24+03:00</updated>
+  <updated>2012-06-23T15:18:40+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Märt Põder]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
