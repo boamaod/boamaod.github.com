@@ -15,7 +15,7 @@ function prettyDate(time) {
     yesterday:   "1p",
     days_ago:    "p",
     last_week:   "1n",
-    weeks_ago:   "&infin;"
+    weeks_ago:   "ndl"
   };
 
   var current_date = new Date(),
