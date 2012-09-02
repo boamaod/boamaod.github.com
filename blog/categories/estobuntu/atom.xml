@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: estobuntum | Märdi transparentsiblogi]]></title>
-  <link href="http://boamaod.github.com/blog/categories/estobuntum/atom.xml" rel="self"/>
+  <title><![CDATA[Category: estobuntu | Märdi transparentsiblogi]]></title>
+  <link href="http://boamaod.github.com/blog/categories/estobuntu/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-09-02T19:06:23+03:00</updated>
+  <updated>2012-09-02T19:09:37+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
