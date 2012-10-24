@@ -4,7 +4,7 @@
   <title><![CDATA[Category: põhiõigused | Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/blog/categories/põhiõigused/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-10-25T02:33:09+03:00</updated>
+  <updated>2012-10-25T02:34:44+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -277,7 +277,12 @@
 <P>Erinevalt pealiskaudsele vaatajale avanevast pildist pole Interneti tuumaks siiski mitte teatud kasutustingimustega veebisaidid, vaid pigem TCP/IP protokollistik. Vint Cerf, üks selle protokollistiku autoreid <A HREF="http://techpresident.com/news/22726/timeline-update-why-tcpip-inherently-political-according-vint-cerf-one-its-inventors">kinnitab</A>, et tegu on poliitiliste järelmitega protokollistikuga, sest kõik osalised on selle protokolli järgi sõltumata oma arvutusvõimsusest vms parameetritest võrdsed. See tähendab, et Internet on arhitektuuri poolest loodud võimaldama demokraatlikku avatud ruumi.</P>
 
 
-<p><a href="http://internetdefenseleague.org/"><img style="float: right; margin: 0 0 0.1em 0.1em;" src="http://internetdefenseleague.org/images/badges/final/super_badge.png" alt="The Internet Defense League - Protecting the Free Internet since 2012." title="The Internet Defense League - Protecting the Free Internet since 2012."></a><P>Kui füüsilises keskkonnas asuvale erakasutuses olevale ruumile on enamasti seatud mingid kasutuspiirangud, nt lahtioleku ajad, sihtotstarve vms, siis Interneti andmesideprotokollid on lahti ööpäevaringselt ja nende avalikule kasutusele piiranguid üldiselt ei seata. Kui piiranguid on, siis on need enamasti pakettide optimaalsete liikumistrajektooride tagamiseks, ja võrguliiklusse sekkumisse muudel eesmärkidel vaadatakse halvasti.</P></p>
+
+
+<P>Kui füüsilises keskkonnas asuvale erakasutuses olevale ruumile on enamasti seatud mingid kasutuspiirangud, nt lahtioleku ajad, sihtotstarve vms, siis Interneti andmesideprotokollid on lahti ööpäevaringselt ja nende avalikule kasutusele piiranguid üldiselt ei seata. Kui piiranguid on, siis on need enamasti pakettide optimaalsete liikumistrajektooride tagamiseks, ja võrguliiklusse sekkumisse muudel eesmärkidel vaadatakse halvasti.</P>
+
+
+
 
 <P>Seega ei näe ma Interneti puhul eriti sügavat tähendust avaliku ja erakasutuses oleva &quot;poolavaliku&quot; ruumi eristusel, sest seda erisust praktikas sisuliselt pole ja seda pole ka võimalik mingis kuigi mõttekas tähenduses tekitada. Mistõttu jääb meile pigem dilemma, et kas Internet on tervikuna avalik ruum või pole ta seda.</P>
 
