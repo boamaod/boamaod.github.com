@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ddos | Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/blog/categories/ddos/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-10-25T01:16:40+03:00</updated>
+  <updated>2012-10-25T01:59:03+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -272,7 +272,12 @@
 <P>Nimelt minnakse sellesse tavamõistes avalikku ruumi ikkagi läbi hulga eravalduses olevate avalikuks kasutuseks mõeldud seadmete, tehes seda väga intensiivselt, enamasti mitmeid kordi sekundis. Näiteks veebilehe vaatamiseks saadetakse lehte sisaldava andmekandja poole mitmeid päringuid, millele seda andmekandjat vahendav süsteem mitmel viisil vastab. Nii käib lihtsa veebilehe vaatamisel üks andmepakettide pidev edasi-tagasi sõelumine läbi eri omanike valduste, ja on suhteliselt mõttelage püüda määratleda, et kas õiguslik subjekt on selle kõige käigus nüüd avalikus ruumis või poolavalikus ruumis või kas üldse saab inimese kohalolu Interneti teatud paigas määrata pakettide järgi, mida tema arvuti edastab ja mis Internetis omasoodu sihtmärki otsivad.</P>
 
 
-<p><a href="http://internetdefenseleague.org/"><img style="float: right; margin: 0 0 0.1em 0.1em;" src="http://internetdefenseleague.org/images/badges/final/super_badge.png" alt="The Internet Defense League - Protecting the Free Internet since 2012." title="The Internet Defense League - Protecting the Free Internet since 2012."></a><P>Erinevalt pealiskaudsele vaatajale avanevast pildist pole Interneti tuumaks siiski mitte teatud kasutustingimustega veebisaidid, vaid pigem TCP/IP protokollistik. Vint Cerf, üks selle protokollistiku autoreid <A HREF="http://techpresident.com/news/22726/timeline-update-why-tcpip-inherently-political-according-vint-cerf-one-its-inventors">kinnitab</A>, et tegu on poliitiliste järelmitega protokollistikuga, sest kõik osalised on selle protokolli järgi sõltumata oma arvutusvõimsusest vms parameetritest võrdsed. See tähendab, et Internet on arhitektuuri poolest loodud võimaldama demokraatlikku avatud ruumi.</P></p>
+
+
+<P>Erinevalt pealiskaudsele vaatajale avanevast pildist pole Interneti tuumaks siiski mitte teatud kasutustingimustega veebisaidid, vaid pigem TCP/IP protokollistik. Vint Cerf, üks selle protokollistiku autoreid <A HREF="http://techpresident.com/news/22726/timeline-update-why-tcpip-inherently-political-according-vint-cerf-one-its-inventors">kinnitab</A>, et tegu on poliitiliste järelmitega protokollistikuga, sest kõik osalised on selle protokolli järgi sõltumata oma arvutusvõimsusest vms parameetritest võrdsed. See tähendab, et Internet on arhitektuuri poolest loodud võimaldama demokraatlikku avatud ruumi.</P>
+
+
+
 
 <P>Kui füüsilises keskkonnas asuvale erakasutuses olevale ruumile on enamasti seatud mingid kasutuspiirangud, nt lahtioleku ajad, sihtotstarve vms, siis Interneti andmesideprotokollid on lahti ööpäevaringselt ja nende avalikule kasutusele piiranguid üldiselt ei seata. Kui piiranguid on, siis on need enamasti pakettide optimaalsete liikumistrajektooride tagamiseks, ja võrguliiklusse sekkumisse muudel eesmärkidel vaadatakse halvasti.</P>
 
@@ -282,12 +287,7 @@
 <P>Seega ei näe ma Interneti puhul eriti sügavat tähendust avaliku ja erakasutuses oleva &quot;poolavaliku&quot; ruumi eristusel, sest seda erisust praktikas sisuliselt pole ja seda pole ka võimalik mingis kuigi mõttekas tähenduses tekitada. Mistõttu jääb meile pigem dilemma, et kas Internet on tervikuna avalik ruum või pole ta seda.</P>
 
 
-
-
-<P>Et tegu on avaliku ruumiga, sellele osutavad Interneti kõige fundamentaalsemad omadused. Sedasama peegeldab minu arvates aga ka Interneti roll ühiskonnas.</P>
-
-
-
+<p><a href="http://internetdefenseleague.org/"><img style="float: right; margin: 0 0 0.1em 0.1em;" src="http://internetdefenseleague.org/images/badges/final/super_badge.png" alt="The Internet Defense League - Protecting the Free Internet since 2012." title="The Internet Defense League - Protecting the Free Internet since 2012."></a><P>Et tegu on avaliku ruumiga, sellele osutavad Interneti kõige fundamentaalsemad omadused. Sedasama peegeldab minu arvates aga ka Interneti roll ühiskonnas.</P></p>
 
 <P>Näiteks on meil olemas veebikonstaablid, kes peavad Internetis korda. Internetis toimuvad avalikud arutelud, millega kõik inimesed võivad liituda, toimuvad kampaaniad ja algatused. Riigiasutused omavad Internetis oma esindusi ja võimaldavad endaga suhelda. Internetis on võimalik allkirjastada õiguslikult siduvaid lepinguid, teha finantstehinguid. Saab valida esindajaid Riigikogusse ja omavalitsustesse.</P>
 
