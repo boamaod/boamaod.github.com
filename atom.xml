@@ -4,7 +4,7 @@
   <title><![CDATA[Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-10-25T00:27:09+03:00</updated>
+  <updated>2012-10-25T01:16:40+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -272,12 +272,7 @@
 <P>Nimelt minnakse sellesse tavamõistes avalikku ruumi ikkagi läbi hulga eravalduses olevate avalikuks kasutuseks mõeldud seadmete, tehes seda väga intensiivselt, enamasti mitmeid kordi sekundis. Näiteks veebilehe vaatamiseks saadetakse lehte sisaldava andmekandja poole mitmeid päringuid, millele seda andmekandjat vahendav süsteem mitmel viisil vastab. Nii käib lihtsa veebilehe vaatamisel üks andmepakettide pidev edasi-tagasi sõelumine läbi eri omanike valduste, ja on suhteliselt mõttelage püüda määratleda, et kas õiguslik subjekt on selle kõige käigus nüüd avalikus ruumis või poolavalikus ruumis või kas üldse saab inimese kohalolu Interneti teatud paigas määrata pakettide järgi, mida tema arvuti edastab ja mis Internetis omasoodu sihtmärki otsivad.</P>
 
 
-
-
-<P>Erinevalt pealiskaudsele vaatajale avanevast pildist pole Interneti tuumaks siiski mitte teatud kasutustingimustega veebisaidid, vaid pigem TCP/IP protokollistik. Vint Cerf, üks selle protokollistiku autoreid <A HREF="http://techpresident.com/news/22726/timeline-update-why-tcpip-inherently-political-according-vint-cerf-one-its-inventors">kinnitab</A>, et tegu on poliitiliste järelmitega protokollistikuga, sest kõik osalised on selle protokolli järgi sõltumata oma arvutusvõimsusest vms parameetritest võrdsed. See tähendab, et Internet on arhitektuuri poolest loodud võimaldama demokraatlikku avatud ruumi.</P>
-
-
-
+<p><a href="http://internetdefenseleague.org/"><img style="float: right; margin: 0 0 0.1em 0.1em;" src="http://internetdefenseleague.org/images/badges/final/super_badge.png" alt="The Internet Defense League - Protecting the Free Internet since 2012." title="The Internet Defense League - Protecting the Free Internet since 2012."></a><P>Erinevalt pealiskaudsele vaatajale avanevast pildist pole Interneti tuumaks siiski mitte teatud kasutustingimustega veebisaidid, vaid pigem TCP/IP protokollistik. Vint Cerf, üks selle protokollistiku autoreid <A HREF="http://techpresident.com/news/22726/timeline-update-why-tcpip-inherently-political-according-vint-cerf-one-its-inventors">kinnitab</A>, et tegu on poliitiliste järelmitega protokollistikuga, sest kõik osalised on selle protokolli järgi sõltumata oma arvutusvõimsusest vms parameetritest võrdsed. See tähendab, et Internet on arhitektuuri poolest loodud võimaldama demokraatlikku avatud ruumi.</P></p>
 
 <P>Kui füüsilises keskkonnas asuvale erakasutuses olevale ruumile on enamasti seatud mingid kasutuspiirangud, nt lahtioleku ajad, sihtotstarve vms, siis Interneti andmesideprotokollid on lahti ööpäevaringselt ja nende avalikule kasutusele piiranguid üldiselt ei seata. Kui piiranguid on, siis on need enamasti pakettide optimaalsete liikumistrajektooride tagamiseks, ja võrguliiklusse sekkumisse muudel eesmärkidel vaadatakse halvasti.</P>
 
