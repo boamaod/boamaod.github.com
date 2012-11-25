@@ -4,7 +4,7 @@
   <title><![CDATA[Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-11-25T12:29:54+02:00</updated>
+  <updated>2012-11-25T12:33:54+02:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -25,7 +25,7 @@
 
 <p><a href="https://cryptoparty.org"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/kryptopidu.png" alt="CryptoParty.org" title="CryptoParty.org"></a><p><a href="https://cryptoparty.org">Krüptopidu</a> on rahvusvaheline algatus, mille eesmäk on õpetada tavainimesele elementaarseid ja praktilisi krüptovahendeid. Niisugusel kujul tundub see natuke imelik ettevõtmine, sest mis ajast on vaja elementaarseks arvutiõpetuseks tekitada rahvusvaheline algatusgrupp? Ja mis mõttes see üldse &#8220;pidu&#8221; on?</p></p>
 
-<p>Ent kui järele mõtelda, siis polegi see nii imelik. Kuna elame ajastul, kus meie kõikvõimalikud andmed on üle Interneti digitaalselt vahetult ligipääsetavad, siis on igati loomulik kaitse soovimatu ligitikkumise eest andmete krüpteerimine — või digitaalne eraklus. Tavaolukorras pole võrgujuhtme väljatõmbamine realistlik lahendus ja nii jääbki kõige viimasemaks otseseks kaitseliiniks just krüpto kasutamine. Erinevalt muudest turvalisuse tagamise vahenditest pole krüpto niivõrd tehniline vigur nagu seda on tulemüürid, viirusetõrjed jms, vaid on puhas jõuvõte.</p>
+<p>Ent kui järele mõtelda, siis polegi see nii imelik. Kuna elame ajastul, kus meie kõikvõimalikud andmed on üle Interneti digitaalselt vahetult ligipääsetavad, siis on igati loomulik kaitse soovimatu ligitikkumise eest andmete krüpteerimine — või digitaalne eraklus. Tavaolukorras pole võrgujuhtme väljatõmbamine siiski realistlik lahendus ja nii jääbki kõige viimasemaks otseseks kaitseliiniks pahatahtlike uudishimutsejate eest just krüpto kasutamine. Erinevalt muudest turvalisuse tagamise vahenditest pole krüpto niivõrd tehniline vigur nagu seda on tulemüürid, viirusetõrjed jms, vaid on puhas jõuvõte.</p>
 
 <p>Korraliku krüpto tehniliseks murdmiseks on vaja massiivselt puhast arvutusjõudu, samas kui igasugu süsteemiadministraatori taseme turvalisust tagavad vahendid võivad murduda väikeste tarkvaravigade tõttu. On selge, et iga tavakasutaja ei hakka kunagi ennast turvama süsteemiadministraatori tasemel. Kuid elementaarsete krüptovahendite kasutamine on õpetatav igaühele. Just seetõttu peangi ma krüptot &#8220;viimaseks otseseks kaitseliiniks&#8221; turvalisuse tagamisel.</p>
 
