@@ -4,7 +4,7 @@
   <title><![CDATA[Category: põhiõigused | Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/blog/categories/põhiõigused/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-11-25T10:02:41+02:00</updated>
+  <updated>2012-11-25T10:28:08+02:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -24,6 +24,10 @@
 
 
 <p><a href="https://cryptoparty.org"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/kryptopidu.png" alt="CryptoParty.org" title="CryptoParty.org"></a><p>Krüptopidu on rahvusvaheline algatus, mille eesmäk on õpetada tavainimesele elementaarseid praktilisi krüptovahendeid. Niisugusel kujul tundub see natuke imelik ettevõtmine, sest mis ajast on vaja elementaarseks arvutiõpetuseks tekitada rahvusvaheline algatusgrupp? Ja mis mõttes see nüüd veel "pidu" on?</p></p>
+
+<p>Ent kui järele mõtelda, siis polegi see nii imelik. Kuna elame ajastul, kus meie kõikvõimalikud andmed on üle Interneti digitaalselt ligipääsetavad, siis on igati loomulik kaitse soovimatu ligitikkumise eest andmete krüpteerimine või digitaalne eraklus. Tavaolukorras pole võrgujuhtme väljatõmbamine realistlik lahendus ja nii jääbki kõige viimasemaks otseseks kaitseliiniks just krüpto kasutamine. Ja erinevalt muudest turvalisuse tagamise vahenditest pole krüpto niivõrd tehniline vahend nagu tulemüürid, viirusetõrjed jms, vaid puhas jõuvõte.</p>
+
+<p>Korraliku krüpto tehniliseks murdmiseks on vaja massiivselt puhast arvutusjõudu, samas kui igasugu süsteemiadministraatori taseme turvalisust tagavad vahendid võivad murduda väikeste tarkvaravigade tõttu. Ka on selge, et iga tavakasutaja ei hakka kunagi ennast turvama süsteemiadministraatori tasemel. Kuid elementaarsete krüptovahendite kasutamine on õpetatav igaühele. Just seetõttu peangi ma krüptot "viimaseks otseseks kaitseliiniks" turvalisuse tagamisel.</p>
 
 <p>Krüptopeo leidsin ma tegelikult netist igapäevase lehitsemise käigus. Pealkiri tundus huvitav ja eesmärk tundus sümpaatne ning juhuste kokkulangevuse tõttu saigi <a href="http://foorum.piraadipartei.ee/discussion/39/raha-ja-tegevust-tartu-noortele-piraatidele">Piraadipartei foorumis</a> välja käidud, et mõni noorem piraat võiks taotleda linnavalitsuselt raha ja peo ära korraldada.</p>
 
@@ -60,15 +64,25 @@ iseendana. Anna talle mask ja ta ütleb sulle tõtt!</em><br>
 <p>Selleks, et teha tegelikuks oma õigus privaatsusele ja anonüümsusele onlainis, on meil vaja talguhanke korras loodud kogukonna poolt arvustatud lahendusi. Krüptopeod pakuvad võimaluse kohtuda ja õppida, kuidas neid lahendusi kasutada, et anda meile kõigile vahendid, mille abil põlistada oma õigus sõnumisaladusele ja anonüümsusele onlainis.</p>
 
 <ul>
-<li><p>Me oleme kõik kasutajad ja me võitleme kasutaja eest ning pürime kasutaja jõustamisele. Me väidame, et <em>kasutajate nõudmine</em> määrab selle, milleks arvutid on. Me usaldame inimeste ühist tarkust, aga mitte tarkvara edasimüüjate, suurettevõtete või valitsuste oma. Me keeldume digitaalsete gugagide ahelatest, mida tahavad vallata valitsuste ja suurettevõtete vasallhuvid. Me olene šifferpunk-revolutsionäärid.</p></li>
-<li><p><em>Õigus isiklikule anonüümsusele, pseudonüümsusele ja privaatsusele on algupärane inimõigus</em>. See õigus toob kaasa elu, vabaduse, väärikuse, turvalisuse, õiguse perekonnale, õiguse elule ilma hirmu või alanduseta. Ükski valitsuse, organisatsioon või üksikisik ei tohiks hoida inimesi pääsemast ligi tehnoloogiatele, mis kinnistavad neid algupäraseid inimõigusi.</p></li>
-<li><p>Sõnumisaladus on üksikisiku absoluutne õigus. Läbipaistvus on seejuures nõudmine valitsustele ja suurettevõtetele, mis tegutsevad inimeste nimel.</p></li>
-<li><p>Vaid üksikisik ise omab õigust oma identiteedile. Vaid üksikisik võib valida, mida ta jagab teistega. Vägivaldsed püüded saada ligipääsu isiklikele andmetele on ilma sõnaselge nõusolekuta on inimõiguste rikkumine.</p></li>
-<li><p>Kõik inimesed on õigustatud saama osa krüptograafiast ja inimõigustest, mida krüptovahendid võimaldavad, seda sõltumata rassist, nahavärvist, soost, keelest, usust, poliitilisest või muust veendumusest, rahvuslikust või ühiskondlikust päritolust, omandist, sünnist ning inimese asupaigaks oleva maa või territooriumi poliitilisest või rahvusvahelisest seisundist.</p></li>
-<li><p>Samamoodi nagu valitused peaksid olema olemas vaid oma kodanike teenimiseks, samamoodi peaks olema ka krüptograafia inimeste jaoks olemas. Tehnoloogiat ei tohiks inimeste eest ära sulgeda.</p></li>
-<li><p>Jälgimist ei saa eristada tsensuurist ja orjusest, mille see kaasa toob. Ühtegi masinat ei tohi sundida jälgimise ja tsensuuri teenistusse. Krüpto on võti meie ühise vabaduse juurde.</p></li>
-<li><p>Kood on kõne: kood on inimloodud keel. Keelata, tsenseerida või sulgeda krüptograafia inimeste eest ära on inimeste ilmajätmine põhilisest inimõiguset, mis kannab nime sõnavabadus.</p></li>
-<li><p>Need, kes tahaksid peatada krüptograafia levikut on saranased 15. sajandi vaimulikele, kes püüdsid keelata trükipressi, kartes, et nende teadmiste monopol saab kõigutatud.</p></li>
+
+<li>Me oleme kõik kasutajad ja me võitleme kasutaja eest ning pürime kasutaja jõustamisele. Me väidame, et *kasutajate nõudmine* määrab selle, milleks arvutid on. Me usaldame inimeste ühist tarkust, aga mitte tarkvara edasimüüjate, suurettevõtete või valitsuste oma. Me keeldume digitaalsete gugagide ahelatest, mida tahavad vallata valitsuste ja suurettevõtete vasallhuvid. Me olene šifferpunk-revolutsionäärid.</li>
+
+<li>*Õigus isiklikule anonüümsusele, pseudonüümsusele ja privaatsusele on algupärane inimõigus*. See õigus toob kaasa elu, vabaduse, väärikuse, turvalisuse, õiguse perekonnale, õiguse elule ilma hirmu või alanduseta. Ükski valitsuse, organisatsioon või üksikisik ei tohiks hoida inimesi pääsemast ligi tehnoloogiatele, mis kinnistavad neid algupäraseid inimõigusi.</li>
+
+<li>Sõnumisaladus on üksikisiku absoluutne õigus. Läbipaistvus on seejuures nõudmine valitsustele ja suurettevõtetele, mis tegutsevad inimeste nimel.</li>
+
+<li>Vaid üksikisik ise omab õigust oma identiteedile. Vaid üksikisik võib valida, mida ta jagab teistega. Vägivaldsed püüded saada ligipääsu isiklikele andmetele on ilma sõnaselge nõusolekuta on inimõiguste rikkumine.</li>
+
+<li>Kõik inimesed on õigustatud saama osa krüptograafiast ja inimõigustest, mida krüptovahendid võimaldavad, seda sõltumata rassist, nahavärvist, soost, keelest, usust, poliitilisest või muust veendumusest, rahvuslikust või ühiskondlikust päritolust, omandist, sünnist ning inimese asupaigaks oleva maa või territooriumi poliitilisest või rahvusvahelisest seisundist.</li>
+
+<li>Samamoodi nagu valitused peaksid olema olemas vaid oma kodanike teenimiseks, samamoodi peaks olema ka krüptograafia inimeste jaoks olemas. Tehnoloogiat ei tohiks inimeste eest ära sulgeda.</li>
+
+<li>Jälgimist ei saa eristada tsensuurist ja orjusest, mille see kaasa toob. Ühtegi masinat ei tohi sundida jälgimise ja tsensuuri teenistusse. Krüpto on võti meie ühise vabaduse juurde.</li>
+
+<li>Kood on kõne: kood on inimloodud keel. Keelata, tsenseerida või sulgeda krüptograafia inimeste eest ära on inimeste ilmajätmine põhilisest inimõiguset, mis kannab nime sõnavabadus.</li>
+
+<li>Need, kes tahaksid peatada krüptograafia levikut on saranased 15. sajandi vaimulikele, kes püüdsid keelata trükipressi, kartes, et nende teadmiste monopol saab kõigutatud.</li>
+
 </ul>
 
 ]]></content>
