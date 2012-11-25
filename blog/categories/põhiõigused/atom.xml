@@ -4,7 +4,7 @@
   <title><![CDATA[Category: põhiõigused | Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/blog/categories/põhiõigused/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2012-11-25T10:35:22+02:00</updated>
+  <updated>2012-11-25T10:44:49+02:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -29,10 +29,20 @@
 
 <p>Korraliku krüpto tehniliseks murdmiseks on vaja massiivselt puhast arvutusjõudu, samas kui igasugu süsteemiadministraatori taseme turvalisust tagavad vahendid võivad murduda väikeste tarkvaravigade tõttu. Ka on selge, et iga tavakasutaja ei hakka kunagi ennast turvama süsteemiadministraatori tasemel. Kuid elementaarsete krüptovahendite kasutamine on õpetatav igaühele. Just seetõttu peangi ma krüptot "viimaseks otseseks kaitseliiniks" turvalisuse tagamisel.</p>
 
-<p>Krüptopeo leidsin ma tegelikult netist igapäevase lehitsemise käigus. Pealkiri tundus huvitav ja eesmärk tundus sümpaatne ning juhuste kokkulangevuse tõttu saigi <a href="http://foorum.piraadipartei.ee/discussion/39/raha-ja-tegevust-tartu-noortele-piraatidele">Piraadipartei foorumis</a> välja käidud, et mõni noorem piraat võiks taotleda linnavalitsuselt raha ja peo ära korraldada.</p>
+<p>Muidugi ei ole krüpto mingi võluvõti. Kui arvutisse on võimalik selle töötamise ajal sisse tungida ja kasutaja tegevust "otsepildis" jälgida, siis pole ka krüptost erilist tolku. Kuid oma jõulises lihtsuses on krüpto siiski suurepärane kaitsevahend.</p>
+
+<p>Aga miks</p>
+
+<p>Krüptopeo algatuse leidsin ma tegelikult netist igapäevase lehitsemise käigus. Pealkiri tundus huvitav ja eesmärk tundus sümpaatne ning juhuste kokkulangevuse tõttu saigi <a href="http://foorum.piraadipartei.ee/discussion/39/raha-ja-tegevust-tartu-noortele-piraatidele">Piraadipartei foorumis</a> välja käidud, et mõni noorem piraat võiks taotleda linnavalitsuselt raha ja peo ära korraldada.</p>
 
 
 <p>Ja nii läkski.</p>
+
+<p>Esimene krüptopidu läks ootuspäraselt. Korraldaja vaatenurgast oli üritusel mitmeid puudusi, kuid osalejad jäid kuuldavasti rahule. Kohal käis kuskil 50 inimese ringis, osad neist tulid saama elementaarteadmisi, osad aga tulid suhtlema endasuguste kogenud krüptofännidega. Krüptopeo materjalid on üleval aadressil https://github.com/kryptopidu.</p>
+
+<p>Kes ei saanud osaleda, siis krüptopidusid toimub kindlasti veel. Järgmise krüptopeo kohta on olnud kuulda niipalju, et see toimub Tallinnas ja arvatavasti järgmise aasta algupoole.</p>
+
+<p>Võtsin ka enda kokku ja tõlkisin takkajärgi ära ka krüptopeo manifesti... Loodetavasti inspireerib see inimesi korraldama krüptopidusid või vähemalt sisustab aega järgmise krüptopeo ootamisel.</p>
 
 <H2>Krüptopeo manifest</H2>
 
