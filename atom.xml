@@ -4,7 +4,7 @@
   <title><![CDATA[Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2013-01-18T13:04:42+02:00</updated>
+  <updated>2013-01-18T13:06:53+02:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -18,7 +18,7 @@
     <link href="http://boamaod.github.com/blog/2013/01/18/demokraatiate-yhitamisest/"/>
     <updated>2013-01-18T11:26:00+02:00</updated>
     <id>http://boamaod.github.com/blog/2013/01/18/demokraatiate-yhitamisest</id>
-    <content type="html"><![CDATA[<p>Otsedemokraatia ja esindusdemokraatia pole üldse nii ühemõttelised vastandid, nagu ollakse harjunud arvama. Esiteks pole olemas ei ideaalselt puhast otsedemokraatiat ega ka ideaalselt puhast esindusdemokraatiat. Seega oleks selline vastandus paratamatult lihtsalt üks abstraktsioon. Teiseks pole aga otse- ja osalusdemokraatia nii ühitamatud, kui kõrvalt paista võib. Näiteks Euroopa piraadiparteide poolt soositud valgdemokraatia (ingl k liquid democracy) on üks reaalne viis võtta parimad küljed kummastki ja liita need täiesti eraldiseisvaks demokraatiatüübiks.</p>
+    <content type="html"><![CDATA[<p>Otsedemokraatia ja esindusdemokraatia pole üldse nii ühemõttelised vastandid, nagu ollakse harjunud arvama. Esiteks pole olemas ei ideaalselt puhast otsedemokraatiat ega ka ideaalselt puhast esindusdemokraatiat. Seega oleks selline vastandus paratamatult lihtsalt üks abstraktsioon. Teiseks pole aga otse- ja osalusdemokraatia nii ühitamatud, kui kõrvalt paista võib. Näiteks Euroopa piraadiparteide poolt soositud valgdemokraatia (ingl k <i>liquid democracy</i>) on üks reaalne viis võtta parimad küljed kummastki ja liita need täiesti eraldiseisvaks demokraatiatüübiks.</p>
 
 <!-- more -->
 
@@ -37,7 +37,7 @@
 <h2>Valguva iseloomuga demokraatiatüüp</h2>
 
 
-<p><a href="http://en.wikipedia.org/wiki/Delegative_democracy"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/delegation.png">Kuid valgdemokraatia eripäraks on lisaks veel see, et volitusi delegeeritakse omakorda edasi. See tähendab, et minu delegaat võib minu antud volituste piires otsustada omakorda volitada kellegi ennast esindama. Nii tekivad pikad harujõgedega jõgesid meenutavad delegeerimisahelad, kus volitused &#8220;valguvad&#8221; lõpuks kõige suurema usaldusväärsusega nn superdelegaatide taha. Konkreetsete hääletuste puhul täidavad superdelegaadid sisuliselt esindusdemokraatia parlamendiliikme rolli. Ent kardinaalne erinevus parlamendisaadikust on, et &#8220;valesti&#8221; hääletamise korral võib volitaja delegeeringu tagasi võtta ja anda kellelgi teisele &#8212; või otsustada kasutada õigust määrata oma hääl ise. Seega on süsteem &#8220;valguva&#8221; iseloomuga ka selles mõttes, et delegeerimisahelad võivad kuju muuta väga dünaamiliselt.</p>
+<p><a href="http://en.wikipedia.org/wiki/Delegative_democracy"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/delegation.png"></a>Kuid valgdemokraatia eripäraks on lisaks veel see, et volitusi delegeeritakse omakorda edasi. See tähendab, et minu delegaat võib minu antud volituste piires otsustada omakorda volitada kellegi ennast esindama. Nii tekivad pikad harujõgedega jõgesid meenutavad delegeerimisahelad, kus volitused &#8220;valguvad&#8221; lõpuks kõige suurema usaldusväärsusega nn superdelegaatide taha. Konkreetsete hääletuste puhul täidavad superdelegaadid sisuliselt esindusdemokraatia parlamendiliikme rolli. Ent kardinaalne erinevus parlamendisaadikust on, et &#8220;valesti&#8221; hääletamise korral võib volitaja delegeeringu tagasi võtta ja anda kellelgi teisele &#8212; või otsustada kasutada õigust määrata oma hääl ise. Seega on süsteem &#8220;valguva&#8221; iseloomuga ka selles mõttes, et delegeerimisahelad võivad kuju muuta väga dünaamiliselt.</p>
 
 <p>Valgdemokraatia ühendab niimoodi esindus- ja otsedemokraatia lihtsa printsiibi alusel tervikuks, mis hõlmab mõlemat. Tegu on delegeerimisahelate ja üldise individuaalse delegeerimisega volitusdemokraatia liigiga.</p>
 
