@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: krüpto | Märdi transparentsiblogi]]></title>
-  <link href="http://boamaod.github.com/blog/categories/krüpto/atom.xml" rel="self"/>
+  <link href="http://boamaod.github.com/blog/categories/krupto/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2013-04-11T08:42:57+03:00</updated>
+  <updated>2013-09-05T09:20:56+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -18,38 +18,38 @@
     <link href="http://boamaod.github.com/blog/2012/11/24/misasi-on-kryptopidu/"/>
     <updated>2012-11-24T23:55:00+02:00</updated>
     <id>http://boamaod.github.com/blog/2012/11/24/misasi-on-kryptopidu</id>
-    <content type="html"><![CDATA[<p>Sel nädalal toimus Tartus Eesti esimene krüptopidu. Mul oli au olla üks korraldajatest. Kuna olen veendunud, et krüptopidusid on vaja korraldada veel ja veel ja veel ja veel jne, siis selgitan natuke, kust ja miks see "krüptopidu" üldse võetud on ja mis on selle mõte. Loodan, et see aitab natuke kaasa tulevastele krüptopidudele.</p>
+    <content type="html"><![CDATA[<p>Sel nädalal toimus Tartus Eesti esimene krüptopidu. Mul oli au olla üks korraldajatest. Kuna olen veendunud, et krüptopidusid on vaja korraldada veel ja veel ja veel ja veel jne, siis selgitan natuke, kust ja miks see &ldquo;krüptopidu&rdquo; üldse võetud on ja mis on selle mõte. Loodan, et see aitab natuke kaasa tulevastele krüptopidudele.</p>
 
 <!-- more -->
 
 
-<p><a href="https://cryptoparty.org"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/kryptopidu.png" alt="CryptoParty.org" title="CryptoParty.org"></a><p><a href="https://cryptoparty.org">Krüptopidu</a> on rahvusvaheline algatus, mille eesmärk on õpetada tavainimesele elementaarseid ja praktilisi krüptovahendeid. Niisugusel kujul tundub see natuke imelik ettevõtmine, sest mis ajast on vaja elementaarseks arvutiõpetuseks tekitada rahvusvaheline algatusgrupp? Ja mis mõttes see üldse "pidu" on?</p></p>
+<p><a href="https://cryptoparty.org"><img style="float: right; margin: 0 0em 0.2em 1.5em;" src="http://boamaod.github.com/images/kryptopidu.png" alt="CryptoParty.org" title="CryptoParty.org"></a><p><a href="https://cryptoparty.org">Krüptopidu</a> on rahvusvaheline algatus, mille eesmärk on õpetada tavainimesele elementaarseid ja praktilisi krüptovahendeid. Niisugusel kujul tundub see natuke imelik ettevõtmine, sest mis ajast on vaja elementaarseks arvutiõpetuseks tekitada rahvusvaheline algatusgrupp? Ja mis mõttes see üldse &ldquo;pidu&rdquo; on?</p></p>
 
 <p>Ent kui järele mõtelda, siis polegi see nii imelik.</p>
 
 <p>Kuna elame ajastul, kus meie kõikvõimalikud andmed on üle Interneti digitaalselt vahetult ligipääsetavad, siis on igati loomulik kaitse soovimatu ligitikkumise eest andmete krüpteerimine — teine loomulik kaitse oleks ehk digitaalne eraklus. Tavaolukorras pole võrgujuhtme väljatõmbamine siiski realistlik ja nii jääbki kõige viimasemaks otseseks kaitseliiniks pahatahtlike uudishimutsejate eest just krüpto kasutamine. Erinevalt muudest turvalisuse tagamise vahenditest pole krüpto niivõrd tehniline vigur nagu seda on tulemüürid, viirusetõrjed jms, vaid on puhas jõuvõte.</p>
 
-<p>Korraliku krüpto tehniliseks murdmiseks on vaja massiivselt toorest arvutusjõudu, samas kui igasugu süsteemiadministraatori taseme turvalisust tagavad vahendid võivad murduda väikeste tarkvaravigade tõttu. On selge, et iga tavakasutaja ei hakka kunagi ennast turvama süsteemiadministraatori tasemel, kuid elementaarsete krüptovahendite kasutamine on õpetatav igaühele. Just seetõttu peangi ma krüptot "viimaseks otseseks kaitseliiniks" turvalisuse tagamisel.</p>
+<p>Korraliku krüpto tehniliseks murdmiseks on vaja massiivselt toorest arvutusjõudu, samas kui igasugu süsteemiadministraatori taseme turvalisust tagavad vahendid võivad murduda väikeste tarkvaravigade tõttu. On selge, et iga tavakasutaja ei hakka kunagi ennast turvama süsteemiadministraatori tasemel, kuid elementaarsete krüptovahendite kasutamine on õpetatav igaühele. Just seetõttu peangi ma krüptot &ldquo;viimaseks otseseks kaitseliiniks&rdquo; turvalisuse tagamisel.</p>
 
-<p>Muidugi ei ole krüpto mingi absoluutne võluvõti. Kui arvutisse on võimalik selle töötamise ajal sisse tungida ja kasutaja tegevust "otsepildis" jälgida, siis pole ka krüptost erilist tolku. Kuid oma lihtsas jõulisuses on krüpto siiski suurepärane kaitsevahend. Ülejäänud taristu eest hoolitsemine on mõistlik usaldada pigem spetsialistidele. Ma isiklikult soovitan turvaliseks opsüsteemiks <a href="http://boamaod.github.com/blog/2012/03/28/oskusest-opsysteemi-valida/">Estobuntut</a> või mõnda <a href="http://kysi-mult-linuxit.alvatal.ee/">muud Linuxi opsüsteemi</a>.</p>
+<p>Muidugi ei ole krüpto mingi absoluutne võluvõti. Kui arvutisse on võimalik selle töötamise ajal sisse tungida ja kasutaja tegevust &ldquo;otsepildis&rdquo; jälgida, siis pole ka krüptost erilist tolku. Kuid oma lihtsas jõulisuses on krüpto siiski suurepärane kaitsevahend. Ülejäänud taristu eest hoolitsemine on mõistlik usaldada pigem spetsialistidele. Ma isiklikult soovitan turvaliseks opsüsteemiks <a href="http://boamaod.github.com/blog/2012/03/28/oskusest-opsysteemi-valida/">Estobuntut</a> või mõnda <a href="http://kysi-mult-linuxit.alvatal.ee/">muud Linuxi opsüsteemi</a>.</p>
 
-<p>Kuid miks siis ikkagi "pidu"? Sest krüpto vabastab. Nagu tunnevad inimesed end vabalt ühel korralikul peol, samamoodi laseb krüpto inimesel end digikeskkonnas vabalt tunda. See on tõeline vabanemise tunne, mis saabub, kui kasutaja jõuab arusaamisele, et ja kuidas ta andmed ja sidekanalid pole peale elementaarse krüpto kasutuselevõttu enam kõrvalistele tegelastele lihtsal viisil kättesaadavad. Üldiselt peaks meie privaatsfääri kaitsema riik, aga digikeskkonna areng on niivõrd kiire, et seadused ei jõua kuidagi reaalsusele järele. Seega on krüpto hädavajalik lisagarantii selleks, et digikeskkonnas peetaks pühaks neidsamu fundamentaalsed õigusi ja vabadusi, mille kehtivust tavakeskkonnas keegi ei vaidlusta: "Krüptopidu on ellu kutsutud, et pühitseda põhiseaduslikke õigusi nagu sõnumisaladus ja eraelu puutumatus".</p>
+<p>Kuid miks siis ikkagi &ldquo;pidu&rdquo;? Sest krüpto vabastab. Nagu tunnevad inimesed end vabalt ühel korralikul peol, samamoodi laseb krüpto inimesel end digikeskkonnas vabalt tunda. See on tõeline vabanemise tunne, mis saabub, kui kasutaja jõuab arusaamisele, et ja kuidas ta andmed ja sidekanalid pole peale elementaarse krüpto kasutuselevõttu enam kõrvalistele tegelastele lihtsal viisil kättesaadavad. Üldiselt peaks meie privaatsfääri kaitsema riik, aga digikeskkonna areng on niivõrd kiire, et seadused ei jõua kuidagi reaalsusele järele. Seega on krüpto hädavajalik lisagarantii selleks, et digikeskkonnas peetaks pühaks neidsamu fundamentaalsed õigusi ja vabadusi, mille kehtivust tavakeskkonnas keegi ei vaidlusta: &ldquo;Krüptopidu on ellu kutsutud, et pühitseda põhiseaduslikke õigusi nagu sõnumisaladus ja eraelu puutumatus&rdquo;.</p>
 
 <p>Krüptopeo algatuse leidsin ma õigupoolest netist oma igapäevase infotarbimise käigus. Pealkiri tundus huvitav ja eesmärk ülimalt sümpaatne ning juhuste kokkulangevuse tõttu saigi <a href="http://foorum.piraadipartei.ee/discussion/39/raha-ja-tegevust-tartu-noortele-piraatidele">Piraadipartei foorumis</a> välja käidud, et mõni noorem piraat võiks taotleda linnavalitsuselt raha ja peo ära korraldada.</p>
 
 
-<p>Ja lõpuks nii läkski...</p>
+<p>Ja lõpuks nii läkski&hellip;</p>
 
 <P><a href="https://www.facebook.com/events/457461230972942/"><img style="float: center; margin: 0 0 0 0;" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/54224_479567215421138_512316229_o.jpg" alt="Tartu Krüptopidu koosnes seeriast nõudmisel alustavatest 20-minutilistest töötubadest eri krüptovahendite teemadel" title="Tartu Krüptopidu koosnes seeriast nõudmisel alustavatest 20-minutilistest töötubadest eri krüptovahendite teemadel"></a></P>
 
 
-<p><a href="https://cryptoparty.org/wiki/Tartu">Esimene krüptopidu</a> kulges ootuspäraselt. Korraldaja vaatenurgast oli üritusel mitmeid puudusi, kuid kuuldavasti jäid osalejad rahule. Kohal oli 50 inimese ringis, osa neist tuli saama elementaarteadmisi, osa aga tuli suhtlema endasuguste kogenud krüptofännidega. Järgmistele korraldajatele soovitaks markeerida peoruumis väga selgelt kõik haruteed töögruppidesse ja muu aktiviteedi juurde, sest muidu tulevad inimesed kohale ja istuvad lihtsalt maha. Ja kui nad on juba maha istunud, siis on raske neid "häälkäsklustega" rühmitama või ruumi eri nurkadesse suunama hakata. Õigem oleks ilmselt anda kohaletulnutele kätte vahendid ja aeg intelligentseks iserühmitumiseks.</p>
+<p><a href="https://cryptoparty.org/wiki/Tartu">Esimene krüptopidu</a> kulges ootuspäraselt. Korraldaja vaatenurgast oli üritusel mitmeid puudusi, kuid kuuldavasti jäid osalejad rahule. Kohal oli 50 inimese ringis, osa neist tuli saama elementaarteadmisi, osa aga tuli suhtlema endasuguste kogenud krüptofännidega. Järgmistele korraldajatele soovitaks markeerida peoruumis väga selgelt kõik haruteed töögruppidesse ja muu aktiviteedi juurde, sest muidu tulevad inimesed kohale ja istuvad lihtsalt maha. Ja kui nad on juba maha istunud, siis on raske neid &ldquo;häälkäsklustega&rdquo; rühmitama või ruumi eri nurkadesse suunama hakata. Õigem oleks ilmselt anda kohaletulnutele kätte vahendid ja aeg intelligentseks iserühmitumiseks.</p>
 
-<p>Korralduse käigus tekkinud krüptopeo materjalid on üleval aadressil <a href="https://github.com/kryptopidu">https://github.com/kryptopidu</a> ja neid võib lahkesti kasutada järgmiste krüptopidude jaoks.</p>
+<p>Korralduse käigus tekkinud krüptopeo materjalid on üleval aadressil <a href="https://github.com/kryptopidu"><a href="https://github.com/kryptopidu">https://github.com/kryptopidu</a></a> ja neid võib lahkesti kasutada järgmiste krüptopidude jaoks.</p>
 
 <p>Kes ei saanud osaleda, siis krüptopidusid toimub kindlasti veel. Järgmise krüptopeo kohta on olnud kuulda niipalju, et see toimub Tallinnas ja arvatavasti 2013. aasta algupoole, korraldamisest huvitatud võiks kontaktida Rogeriga <a href="mailto:roger@tlu.ee">&lt;roger@tlu.ee&gt;</a>.</p>
 
-<p>Võtsin end lõpuks kokku ja tõlkisin ka takkajärgi ära krüptopeo manifesti — loodetavasti inspireerib see inimesi korraldama krüptopidusid või vähemalt sisustab aega järgmise krüptopeo ootamisel...</p>
+<p>Võtsin end lõpuks kokku ja tõlkisin ka takkajärgi ära krüptopeo manifesti — loodetavasti inspireerib see inimesi korraldama krüptopidusid või vähemalt sisustab aega järgmise krüptopeo ootamisel&hellip;</p>
 
 <H2>Krüptopeo manifest</H2>
 
@@ -61,7 +61,7 @@ iseendana. Anna talle mask ja ta ütleb sulle tõtt!</em><br>
 — Oscar Wilde</p>
 
 
-<p>John Perry Barlow, <em>Electronic Frontier Foundationi</em> kaasasutaja koostas 1996. aastal "Küberruumi iseseisvuse deklaratsiooni". See sisaldab järgnevat paragrahvi:</p>
+<p>John Perry Barlow, <em>Electronic Frontier Foundationi</em> kaasasutaja koostas 1996. aastal &ldquo;Küberruumi iseseisvuse deklaratsiooni&rdquo;. See sisaldab järgnevat paragrahvi:</p>
 
 <blockquote>
 <p>Küberruum koosneb ülekannetest, seostest ja mõttest endast, reastatud seisulainena me ühenduste võrgus. Meie maailm on korraga kõikjal ja eikusagil, kuid see pole seal, kus elunevad kehad.</p>
@@ -76,7 +76,7 @@ iseendana. Anna talle mask ja ta ütleb sulle tõtt!</em><br>
 
 <p>Kahjuks pole saanud tõeks mitte kogu John Perry Barlow nägemus. Ilma ligipääsuta anonüümsusele onlainis pole meil vabadust eelisõigusist ja eelarvamusist. Ilma privaatsuseta pole võimaldatud sõnavabadus.</p>
 
-<p>Väljakutsed, millega me 21. sajandil vastamisi seisame, nõuavad kogu inimkonna ühiseid tööpingutusi. Väljakutsed, millega me vastamisi seisame, on tõsised: kliimamuutused, energiakriis, riiklik tsensuur, jälgimisühiskond ja peatumatud sõjad. Me peame olema vabad ühenduma ja liituma ilma hirmu tundmata. Me peame toetama avatud lähtekoodiga projekte, mis püüavad suurendada tavainimeste teadmisi tehnoloogiast, millest me kõik sõltume: <a href="http://opensourceecology.org/">http://opensourceecology.org/</a>. Panustatagu!</p>
+<p>Väljakutsed, millega me 21. sajandil vastamisi seisame, nõuavad kogu inimkonna ühiseid tööpingutusi. Väljakutsed, millega me vastamisi seisame, on tõsised: kliimamuutused, energiakriis, riiklik tsensuur, jälgimisühiskond ja peatumatud sõjad. Me peame olema vabad ühenduma ja liituma ilma hirmu tundmata. Me peame toetama avatud lähtekoodiga projekte, mis püüavad suurendada tavainimeste teadmisi tehnoloogiast, millest me kõik sõltume: <a href="http://opensourceecology.org/"><a href="http://opensourceecology.org/">http://opensourceecology.org/</a></a>. Panustatagu!</p>
 
 <p>Selleks, et teha tegelikuks oma õigus privaatsusele ja anonüümsusele onlainis, on meil vaja talguhanke korras loodud ja kogukonna poolt arvustatud lahendusi. Krüptopeod pakuvad võimaluse kohtuda ja õppida, kuidas neid lahendusi kasutada, et anda meile kõigile vahendid, mille abil nõutada oma õigust sõnumisaladusele ja anonüümsusele onlainis.</p>
 
