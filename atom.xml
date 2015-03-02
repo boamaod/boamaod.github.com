@@ -4,7 +4,7 @@
   <title><![CDATA[Märdi transparentsiblogi]]></title>
   <link href="http://boamaod.github.com/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2015-03-02T10:04:09+02:00</updated>
+  <updated>2015-03-02T10:05:59+02:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kuidas ma e-valimisi otsast natuke häkkisin]]></title>
-    <link href="http://boamaod.github.com/blog/2015/02/15/minu-evalimised/"/>
-    <updated>2015-02-15T06:15:00+02:00</updated>
-    <id>http://boamaod.github.com/blog/2015/02/15/minu-evalimised</id>
+    <link href="http://boamaod.github.com/blog/2015/03/02/minu-evalimised/"/>
+    <updated>2015-03-02T06:15:00+02:00</updated>
+    <id>http://boamaod.github.com/blog/2015/03/02/minu-evalimised</id>
     <content type="html"><![CDATA[<p>Enamik valijatest ei adu ilmselt üldse, kuidas e-hääletamine tehniliselt korraldatud on, suurem jagu 176 491 valijast on lihtsalt valijarakenduse usaldavad kliendid. Kuna valijarakendus e-sedeli rikkumist ei võimalda, siis on selline tegevus pigem väheste nutikamate privileeg. Miks ma 2015. aasta Riigikogu valimistel seda privileegi kasutada otsustasin? Kohe seletan.</p>
 
 <!-- more -->
