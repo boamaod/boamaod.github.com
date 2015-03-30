@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: e-hääletamine | Märdi transparentsiblogi]]></title>
-  <link href="http://boamaod.github.com/blog/categories/e-haaletamine/atom.xml" rel="self"/>
+  <title><![CDATA[Category: e-hääletus | Märdi transparentsiblogi]]></title>
+  <link href="http://boamaod.github.com/blog/categories/e-haaletus/atom.xml" rel="self"/>
   <link href="http://boamaod.github.com/"/>
-  <updated>2015-03-03T17:50:38+02:00</updated>
+  <updated>2015-03-30T06:41:56+03:00</updated>
   <id>http://boamaod.github.com/</id>
   <author>
     <name><![CDATA[Märt Põder]]></name>
@@ -12,6 +12,143 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vaadeldamatu e-hääletus pole usaldusväärne]]></title>
+    <link href="http://boamaod.github.com/blog/2015/03/30/rohkem-kryptot/"/>
+    <updated>2015-03-30T06:03:00+03:00</updated>
+    <id>http://boamaod.github.com/blog/2015/03/30/rohkem-kryptot</id>
+    <content type="html"><![CDATA[<p>Kuigi kodu- ja välismaised eksperdid on teinud valimiskomisjonile korduvalt ettepaneku parandada e-hääletuse süsteemi krüptograafia vahenditega, on neid järjekindlalt eiratud. Kui ei leidu poliitilist valmisolekut viia järgneva kahe valimistevaba aasta jooksul e-hääletus vastavusse tänapäevaste demokraatlike valimiste standarditega, siis võib ajaloos kõige esimese üleriigilise e-hääletuse läbiviija tiitel jäädagi meie e-riigi ainsaks saavutuseks.</p>
+
+<!-- more -->
+
+
+<p>Vabariigi Valimiskomisjonile on korduvalt tehtud ettepanekuid e-valimiste usaldusväärsuse parandamiseks, aga ükski neist pole olnud tungivam kui viia e-hääletus vastavusse &ldquo;otsast lõpuni kontrollitavuse&rdquo; (<em>end-to-end verifiability</em>) nõuetega.</p>
+
+<p>Resoluutseim neist soovitustest on ilmselt OSCE 2011. aasta Riigikogu valimiste vaatlusmissiooni raportis, kus pannakse ette, et loodaks &ldquo;avatud ja osapooli kaasav töörühm, et kaaluda kontrollitavust võimaldava internetihääletuse skeemi või samaväärselt usaldusväärse mehhanismi kasutuselevõtmist, mille abil saaks valija veenduda ega tema häält pahavara abil muudetud ei ole&rdquo;. <A HREF="#viited"><sup>[1]</sup></A></p>
+
+<p>Kuigi Andres Herkel kinnitas 2012. aastal Riigikogus põhiseaduskomisjoni nimel e-hääletusega seotud seadusemuudatusi tutvustades, et viidatud OSCE raportist &ldquo;arvestati peaaegu kõike, mis puudutas elektroonilist hääletust&rdquo; <A HREF="#viited"><sup>[2]</sup></A>, pole seda siiski tehtud.</p>
+
+<p>Seadusega võimaldatud &ldquo;elektroonilise hääle kontroll&rdquo; <A HREF="#viited"><sup>[3]</sup></A> sarnaneb OSCE poolt soovitatud valimiste usaldusväärsuse tagamise mehhanismile üksnes nime poolest.</p>
+
+<h2>Otsast lõpuni kontrollitavus</h2>
+
+
+<p>Otsast lõpuni kontrollitavus on kontseptsioon, mille abil püütakse kirjeldada ning tagada digikeskkonnas läbiviidava hääletuse vaadeldavus ligilähedaselt samasugusel määral, nagu oleme harjunud kontrollima sedelite ja valimiskastidega valimisi. Selle eesmärk on määratleda põhiseadusega ette nähtud demokraatlike valimiste nõuded digikeskkonna jaoks sobival abstraktsioonitasemel.</p>
+
+<p>Üksiku valija jaoks on oluline individuaalne kontrollitavus. See tähendab, et iga valija peab saama veenduda, et tema hääl edastati, salvestati ja loeti valimistel kokku õigesti. Universaalne kontrollitavus seevastu tähendab, et iga valimiste vaatleja peab saama veenduda, et kõik salvestatud hääled on arvesse võetud, üleliigseid hääli pole lisatud ning hääled on korrektselt kokku loetud.</p>
+
+<p>Otsast lõpuni kontrollitavus on loodud ületama e-hääletuse põhimõttelist probleemi sellega, et meil pole võimalik näha, mis toimub hääletuse läbiviimise eest vastutava arvutisüsteemi sees, ja niimoodi veenduda, et hääletust viiakse läbi korrektselt. Sedelite-kastide abil läbiviidavate valimiste puhul on meil kõigil aga see võimalus olemas.</p>
+
+<h2>Põhimõtteline vaadeldavuse dilemma</h2>
+
+
+<p>Oleme harjunud tagama hääle salajasust, märkides oma valiku sedelile valimiskabiini privaatsuses ja murdes seejärel sedeli kokku — ning pärast valimiskasti laskmist on valija ja tema hääle seos kõrvalseisja jaoks praktiliselt tuvastamatu.</p>
+
+<p>Seejuures saame jälgida nii iseenda kui teiste sedelite valimiskasti laskmist, sedelitega täidetud valimiskastide kokkukogumist, sedelite väljavõtmist ning lõpuks sedelitele märgitud häälte kokkulugemist. See annab meile robustse ja arusaadava kindluse, et hääletus viidi läbi korrektselt.</p>
+
+<p>Arvutisüsteemide sees tiksuvate bittide-baitide vaadeldamatuse probleemi lahenduseks on teadlased pakkunud välja eri krüptograafilisi lahendusi, mille abil saame tagada häälte individuaalse ja universaalse kontrollitavuse.</p>
+
+<p>Kui sedelite-kastide puhul tagab kindluse protsessi lihtsus ja jälgitavus, siis e-hääletuse puhul annavad krüptograafilised lahendused meile kindluse, mis põhineb hoopis matemaatilisel tõestusel.</p>
+
+<h2>Krüptograafiliselt tagatud usaldus</h2>
+
+
+<p>Kuigi see pole sama, mis jälgida sedelite liikumist oma silmaga, on otsast lõpuni matemaatiliselt kontrollitav krüptograafiline jälg sedeli teekonnast siiski parem valimiste korrektsuse tagatis kui arvutisüsteemi käitava “itimehe” ausõna.</p>
+
+<p>Arvutisüsteemid on oma keerukuse tõttu alati haavatavad. Iga süsteem on täpselt nii turvaline, kui turvaline on selle nõrgim bitt. Sageli on aga suurim turvarisk hoopis süsteemi käitav inimene. Seetõttu pole väga ratsionaalne usaldada kolmandik kõigist üleriigiliselt antavatest häältest pimesi ühe kompromiteeritava institutsiooni kätte.</p>
+
+<p>Krüptograafia võimaldab sellised riskid hajutada ning tagada usaldusväärsuse isegi osaliselt kompromiteeritud süsteemis.</p>
+
+<p>On püütud argumenteerida, et digikeskkonnas hääletamisel peaksime üldse loobuma valimiste vaatlemisest isiklikult ning hakkama usaldama audiitoreid, kes meile kinnitaks, et kõik arvutite sisemuses toimunu oli korrektne.</p>
+
+<p>Kergekäeline loobumine vaadeldavusest pole aga põhjendatud, sest valijatel on selle järgi harjumuspärane ja õigustatud ootus. Tegelikult pole ka audiitoril ilma kirjeldatud krüptograafiliste lahendusteta võimalust saada usaldusväärset kinnitust arvutisüsteemi sisemuses toimuva protsessi korrektsuse kohta.</p>
+
+<p>Seetõttu on e-hääletusega tegelevate teadlaste enamuse veendumus, et otsast lõpuni kontrollitavust pakkuvad krüptograafilised lahendused on ainus viis, kuidas tagada hääletuse usaldusväärsus digikeskkonnas toomata ohvriks põhiseaduslikke printsiipe nagu valimiste ühetaolisus või hääle salajasus.</p>
+
+<h2>Raskused lubaduste täitmisega</h2>
+
+
+<p>Kuigi ka Eesti e-hääletuse süsteemis kasutatakse episoodiliselt krüptograafia vahendeid, pole tehtud pingutusi otsast lõpuni kontrollitavuse tagamiseks.</p>
+
+<p>Kasutusele võetud lahendus hääle kontrollimiseks ei vasta individuaalse kontrollitavuse kriteeriumile, sest võimaldab valijal häält kontrollida ainult piiratud aja jooksul ega anna seega võimalust veenduda, et hääl õigel kujul ka lugemisele läks. Ka pole tehtud midagi universaalse kontrollitavuse tagamiseks.</p>
+
+<p>Ometi näib Riigikogu arvavat, et on kinnitanud e-hääletuse täiendused, mis viivad meie süsteemi vastavusse OSCE soovitustega. Ka Euroopa Nõukogu e-hääletuse standardite töörühma koosolekute protokollidest leiab täitmata lubaduse, et Eesti võtab otsast lõpuni kontrollitava e-hääletuse süsteemi Norra eeskujul kasutusele juba 2013. aasta KOV valimistel. <A HREF="#viited"><sup>[4]</sup></A></p>
+
+<h2>Osaline lahendus on puudulik</h2>
+
+
+<p>Kui heita pilk OSCE käesoleva aasta Riigikogu valimiste esialgsesse raportisse <A HREF="#viited"><sup>[5]</sup></A>, siis leiab sealt osutuse, et e-hääle kontrollimise sisseviimine &ldquo;vastab osaliselt&rdquo; (<em>partially address</em>) soovitusele otsast lõpuni kontrollitavuse kohta.</p>
+
+<p>Kuna jutt on aga mehhanismist, mille eesmärk on tagada kontrollitavus sõna otseses mõttes &ldquo;otsast lõpuni&rdquo;, st kogu hääletussüseemi ulatuses tervikuna, siis tähendab mistahes osaline lahendus siin tegelikult läbikukkumist.</p>
+
+<p>Kui demokraatlike valimiste põhimõtete kaitsmine krüptograafia vahenditega kõlab liiga abstraktselt, siis võib ette kujutamisel olla abi võrdlusest linnamüüriga.</p>
+
+<p>Poolik linnamüür ei kaitse linna soovimatute sissetungijate eest. Osaliselt valmis linnamüür ei ole päriselt linnamüür, vaid saab selleks alles siis, kui ümbritseb kogu linna ja on varustatud suletavate väravatega.</p>
+
+<p>Ka põhiseaduses sätestatud nõudmised demokraatlikele valimistele on kas täidetud või mitte, vahepealset varianti pole.</p>
+
+<h2>Otsustajad ei valda teemat</h2>
+
+
+<p>Soovitus kasutada e-hääletuse kontrollitavuse tagamiseks sellisel tasemel krüptograafiat pole tegelikult uus. Suund otsast lõpuni kontrollitavale süsteemile soovitati võtta juba ühes e-hääletuse lähteuuringutest, mis telliti Tartu Ülikooli teadlastelt 2001. aastal. <A HREF="#viited"><sup>[6]</sup></A></p>
+
+<p>Pole head selgitust, miks on eiratud nii seda kui ka paljusid teisi soovitusi, mida on e-hääletuse parandamiseks välja käinud nii meie oma teadlased kui ka Euroopa Nõukogu e-hääletuse standardite töörühma eksperdid.</p>
+
+<p>Mind ei üllata seejuures, et Riigikogu liikmed ei saa aru, mis on e-hääletusega seotud küsimuste tegelik sisu, sest tegu on kahe väga erineva valdkonna piiril oleva uurimisalaga, mille teaduslik käsitlemine eeldab pädevust nii riigiõiguse kui tehnoloogia põhimõtteliste küsimuste alal.</p>
+
+<p>Samas on täiesti vastuvõetamatu, et rohkem kui kümne aasta jooksul pole suudetud luua valimiskomisjoni juurde laiapõhjalist töörühma, suudaks arutada e-hääletuse küsimused piisaval teoreetilisel tasemel sisuliselt läbi ning teha nende sisu selgeks ka Riigikogule, selle komisjonidele, aga ka üldsusele, kes e-hääletuse küsimuses jätkuvalt lõhestunud on.</p>
+
+<p>Kui niivõrd ulatuslike valimissüsteemi uuendustega nagu üldise e-hääletuse võimaldamine ei kaasne avalikkusele mõistetavat debatti ja sellest lähtuvat tahet uuendusi usaldada, siis on need määratud läbikukkumisele.</p>
+
+<h2>Ikka kindlalt edasi</h2>
+
+
+<p>Ilmselge märk probleemidest vaatab vastu juba OSCE 2007. aasta Riigikogu valimiste raportist:</p>
+
+<p>&ldquo;Kui /—/ käesolevas raportis esiletõstetud tõsistele probleemidele ei leita toimivat lahendust, tuleks võimudel tõsiselt kaaluda, kas e-hääletus üldse peaks olema laialdaselt kättesaadav hääletusmeetod või kas ei peaks seda hoopis kasutatama piiratud alustel või üldse mitte kasutama.&rdquo; <A HREF="#viited"><sup>[7]</sup></A></p>
+
+<p>Samasugust soovitust korrati 2014. aastal ka seni ainsas meie e-hääletuse süsteemi kohta tehtud sõltumatus teadusekspertiisis.</p>
+
+<p>Michigani Ülikooli professor J Alex Haldermani juhitud rahvusvaheline töörühm soovitab lisaks konkreetse e-hääletuse süsteemi käitamise lõpetamisele võtta eeskuju Norra e-hääletusest, mille puhul on juba alates selle käivitamisest 2008. aastal võetud suund otsast lõpuni kontrollitavuse nõuete tagamisele. <A HREF="#viited"><sup>[8]</sup></A></p>
+
+<p>Suutmatus võtta kuulda teadusringkondade kriitikat jõudis oma absurdsuse tipuni, kui arutellu sekkus peaminister Taavi Rõivas, kes seadis valitsuse pressikonverentsil raporti usaldusväärsuse kahtluse alla põhjendusega, et ta olla teadlasi kuugeldanud ning keegi neist olla Facebookis sõber ühe Keskerakonna poliitikuga:</p>
+
+<p>&ldquo;Nii Eesti oma eksperdid kui OSCE ametlikud vaatlusmissioonid on korduvalt kinnitanud e-valimiste turvalisust. /—/ Kõik need eksperdid, kes on tõsiseltvõetavad, on Eesti e-valimisi turvaliseks hinnanud. /—/ Need konkreetsed inimesed pole suutnud tuua välja ühtegi meile uudset fakti. /—/ Eesti inimesed usaldavad e-valimisi. Ja on ka põhjust.&rdquo; <A HREF="#viited"><sup>[9]</sup></A></p>
+
+<h2>Valed ja endapettus</h2>
+
+
+<p>Peaminister esiteks valetab siin otseselt OSCE vaatlusmissioonide raportite kohta, et need on meie e-hääletamise hinnanud turvaliseks, aga mõtleb teiseks kohapeal välja ka need tõsiseltvõetavad väliseksperdid, kes meie e-hääletamist auditeerinud on, sest tegelikult on siiani rahvusvaheliste ekspertide poolt auditeerimata isegi e-hääletuse lähtekood.</p>
+
+<p>Kui on tõsi Rõivase väide, et raportis ei toodud välja ühtegi uut fakti, siis tekib küsimus, miks pole peaministrile nii hästi teada olevate puuduste kõrvaldamiseks midagi ette võetud.</p>
+
+<p>Haldermani töörühma raport on siiani ainus sõltumatu uuring Eesti e-hääletamise süsteemi kohta. See on avaldatud mainekas eelretsenseeritavas teadusajakirjas ja on siiani ümber lükkamata. Raportit on tutvustatud nii valdkonna teadlaste kui ka häkkerite konverentsidel, kus see on saanud ainult positiivset tagasisidet.</p>
+
+<p>Selline kriitika meie e-hääletuse suunal on tegelikult valdkonda uurivate teadlaste uurimistöödes valdav, kuigi enamasti esitatakse seda äärmise delikaatsusega. <A HREF="#viited"><sup>[10]</sup></A> Meie e-hääletust ei peeta seejuures eeskujuks ei tehnoloogilises ega ka õiguslikus mõttes, vaid pigem nähakse selles hulljulget sotsiaalset eksperimenti, mida on võimalik läbi viia vaid endise Nõukogude Liidu riigis, mis pole veel oma demokraatlikke instinkte suutnud taastada.</p>
+
+<p>Kuigi armastame oma e-riigiga välismaal uhkeldamas käia, siis tasuks meie esindajatel tõsiselt järele mõelda, kas ei kiida e-hääletamise asjatundjad meid pigem viisakusest kui püüdlikke idioote, kelle kohta on teada, et nad rohkemaks suutelised polegi.</p>
+
+<P><a href="https://en.wikipedia.org/wiki/My_Sister,_My_Sitter"><img style="float: center; margin: 0 0 0 0;" src="http://boamaod.github.com/images/cryptobarn.jpg" alt="Marge uhkeldamas Homeriga taasavatud Springfield Squidport'is." title="Marge uhkeldamas Homeriga taasavatud Springfield Squidport'is."></a></P>
+
+
+
+
+<h2 id="viited">Viited</h2>
+
+
+<p>[1] <a href="http://www.osce.org/odihr/77557">http://www.osce.org/odihr/77557</a>
+[2] <a href="http://www.riigikogu.ee/?op=steno&amp;stcommand=stenogramm&amp;date=1336460700#pk10289">http://www.riigikogu.ee/?op=steno&amp;stcommand=stenogramm&amp;date=1336460700#pk10289</a>
+[3] <a href="https://www.riigiteataja.ee/akt/1045561?leiaKehtiv#para48b6">https://www.riigiteataja.ee/akt/1045561?leiaKehtiv#para48b6</a>
+[4] <a href="http://www.coe.int/t/DEMOCRACY/ELECTORAL-ASSISTANCE/themes/evoting/2013ARDITA.pdf">http://www.coe.int/t/DEMOCRACY/ELECTORAL-ASSISTANCE/themes/evoting/2013ARDITA.pdf</a> lk 18
+[5] <a href="http://www.osce.org/odihr/elections/estonia/139566">http://www.osce.org/odihr/elections/estonia/139566</a>
+[6] <a href="http://www.vvk.ee/public/dok/lipmaamyrk.pdf">http://www.vvk.ee/public/dok/lipmaamyrk.pdf</a> lk 14jj
+[7] <a href="http://www.osce.org/odihr/elections/estonia/25925">http://www.osce.org/odihr/elections/estonia/25925</a>
+[8] <a href="https://estoniaevoting.org/findings/paper/">https://estoniaevoting.org/findings/paper/</a>
+[9] <a href="http://meediaveeb.valitsus.ee/show.php?path=/2014/pressikonverents-2014-05-15-rnd11069.f4v">http://meediaveeb.valitsus.ee/show.php?path=/2014/pressikonverents-2014-05-15-rnd11069.f4v</a> al 28:55
+[10] <a href="http://www.ifes.org/Content/Publications/News-in-Brief/2012/June/~/media/B7FB434187E943C18F4D4992A4EF75DA.pdf">http://www.ifes.org/Content/Publications/News-in-Brief/2012/June/~/media/B7FB434187E943C18F4D4992A4EF75DA.pdf</a> lk 142 (150)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kuidas ma e-valimisi otsast natuke häkkisin]]></title>
